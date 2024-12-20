@@ -1,0 +1,16 @@
+export const order = {
+  COURSE: 'Kursus',
+  EXAM: 'Ujian',
+  DEGREE: 'Gelar',
+  JOB: 'Pekerjaan',
+  ALL: 'Semua',
+  WEB: 'Situs Web',
+  MOBILE: 'Aplikasi Mobile',
+  UNLP: 'LIFIA - UNLP',
+  THESIS: 'Tesis',
+  JOURNAL: 'Jurnal',
+  CONFERENCE: 'Konferensi',
+  CURRENT: 'Saat ini menggunakan',
+  PAST_FREQUENTLY: 'Sering digunakan di masa lalu',
+  PAST_OCCASIONALLY: 'Sedikit pengetahuan tentang',
+};

@@ -1,0 +1,15 @@
+export const order = {
+  COURSE: 'Courses',
+  EDU: 'Education',
+  DEGREE: 'Degrees',
+  JOB: 'Jobs',
+  WEB: 'Websites',
+  MOBILE: 'Mobile Apps',
+  ALL: 'All',
+  THESIS: 'Thesis',
+  JOURNAL: 'Journal',
+  CONFERENCE: 'Conference',
+  ProgrammingLanguage: 'Programming Language',
+  Tools: 'Tools',
+  // PAST_OCCASIONALLY: 'I know a few things about',
+};
