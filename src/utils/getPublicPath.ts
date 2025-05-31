@@ -1,4 +1,4 @@
-const getPath = (path: string) => `${process.env.PUBLIC_URL || 'http://localhost:3000'}/${path}`;
+const getPath = (path: string) => `/${path}`;
 
 export const getSongPath = (song: string) => getPath(`songs/${song}`);
 
